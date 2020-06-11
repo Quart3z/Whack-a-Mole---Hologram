@@ -12,6 +12,8 @@ The game concept is very simple. There are 9 holes on the platform where the egg
 |W, A, S, D |Up, down, left, right arrow keys |movement |
 |Alphabet numpad ‘1’  |Period key ‘.’ |whack |
 
+<a href='https://youtu.be/rUjl3sK-_ik'>Demo video</a>
+
 Created by:
 - Looi Yao Wei	 
 - Chai Cheah Wen	
